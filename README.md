@@ -22,7 +22,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 - 🎥 When I'm not coding, you'll probably find me binge-watching sitcoms   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="49%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=My0th&show_icons=true&count_private=true&hide_border=true" align="left" />
 
