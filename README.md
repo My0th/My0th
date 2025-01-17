@@ -27,7 +27,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 
 <h5>  Languages and Tools  </h5>
 
-<h6> Frontend Development </h6>
+<h6> Frontend and Backend Development</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
@@ -47,8 +47,6 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="css3 logo" />
 </div>
 
-<h6> Backend Development </h6>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -61,7 +59,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-<h6> Databases </h6>
+<h6> Databases and analysis </h6>
 
 <div align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
@@ -73,20 +71,12 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
 </div>
 
-### Data Analysis
-
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="Tableau logo" />
-</div>
-
-<h6> CMS</h6>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
 </div>
 
 
