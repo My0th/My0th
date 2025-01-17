@@ -30,7 +30,6 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 
 <br/>  
 
-
 ## Languages and Tools  
 
 
