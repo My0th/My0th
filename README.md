@@ -4,12 +4,12 @@
 </a>
 <br>
 
-### About Me  
+<h1> About Me   </h1>
 I'm a Fullstack Developer with over 3 years of experience creating web applications and system solutions. I focus on delivering scalable, high-performance applications and optimizing processes. Passionate about solving complex challenges and collaborating in multidisciplinary teams, I am always eager to grow and learn.  
 
 <br>
 
-## Rapidfire  
+<h1>  Rapidfire   </h1>
 <table><tr><td valign="top" width="50%">
 
 📖 I’m currently studying software engineering  
@@ -26,7 +26,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 </td></tr></table>  
 <br>
 
-## Languages and Tools  
+<h1>  Languages and Tools  </h1>
 
 ### Frontend Development
 
