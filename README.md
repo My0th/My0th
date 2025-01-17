@@ -24,7 +24,6 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 <img src="https://github.com/My0th/My0th/raw/main/assets/" align="center" style="width: 100%" />
 </div>  
 </td></tr></table>  
-<br>
 
 <h5>  Languages and Tools  </h5>
 
