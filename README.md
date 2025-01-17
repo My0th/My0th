@@ -21,7 +21,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/My0th/My0th/raw/main/assets/" align="center" style="width: 100%" />
+<img src="https://github.com/daria-stanilevici/daria-stanilevici/raw/main/assets/about_daria.gif" align="center" style="width: 100%" />
 </div>  
 </td></tr></table>  
 
