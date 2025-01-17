@@ -84,11 +84,11 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 ### Data Analysis
 
 <div align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.svg" height="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/excel.png" height="40" alt="Excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="Excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="Tableau logo" />
 </div>
 
 ### CMS
