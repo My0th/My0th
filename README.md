@@ -27,7 +27,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 
 <h5>  Languages and Tools  </h5>
 
-### Frontend Development
+<h6> Frontend Development </h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
@@ -47,7 +47,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="css3 logo" />
 </div>
 
-### Backend Development
+<h6> Backend Development </h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -61,7 +61,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-### Databases
+<h6> Databases </h6>
 
 <div align="left">
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
@@ -83,7 +83,7 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="Tableau logo" />
 </div>
 
-### CMS
+<h6> CMS</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
