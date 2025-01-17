@@ -5,32 +5,22 @@
 
 ### About Me  
 I'm a Fullstack Developer with over 3 years of experience creating web applications and system solutions. I focus on delivering scalable, high-performance applications and optimizing processes. Passionate about solving complex challenges and collaborating in multidisciplinary teams, I am always eager to grow and learn.  
-  
-
 <br/>  
-
-
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 📖 I’m currently studying software engineering  
-  
 
 🌱 I'm currently learning Angular  
-  
 
 🎥 When I'm not coding, you'll probably find me binge-watching sitcoms  
-
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://github.com/My0th/My0th/raw/main/assets/" align="center" style="width: 100%" />
 </div>  
-
-
 </td></tr></table>  
-
 <br/>
 
 ## Languages and Tools  
