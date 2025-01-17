@@ -13,22 +13,25 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 📖 I’m currently studying software engineering  
+📖 I’m currently studying software engineering  
   
 
-- 🌱 I'm currently learning Angular  
+🌱 I'm currently learning Angular  
   
 
-- 🎥 When I'm not coding, you'll probably find me binge-watching sitcoms   
+🎥 When I'm not coding, you'll probably find me binge-watching sitcoms  
 
 
-</td><td valign="top" width="49%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=My0th&show_icons=true&count_private=true&hide_border=true" align="left" />
+<div align="center">
+<img src="https://github.com/My0th/My0th/raw/main/assets/" align="center" style="width: 100%" />
+</div>  
+
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
 ## Languages and Tools  
 
