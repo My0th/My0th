@@ -55,8 +55,6 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="css3 logo" />
 </div>
 
----
-
 ### Backend Development
 
 <div align="left">
@@ -67,9 +65,9 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
-
----
 
 ### Databases
 
@@ -83,8 +81,6 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
 </div>
 
----
-
 ### Data Analysis
 
 <div align="left">
@@ -95,13 +91,12 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
 </div>
 
----
-
 ### CMS
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
 </div>
+
 
 
 
