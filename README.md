@@ -2,8 +2,13 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0071E1&width=600&lines=Hello%2C+it's+María+Ortega;Full-Stack+Developer+%26+Data+Enthusiast" alt="Full-Stack Developer & Data Enthusiast"/>
 </a>
+<br>
+
 ### About Me  
 I'm a Fullstack Developer with over 3 years of experience creating web applications and system solutions. I focus on delivering scalable, high-performance applications and optimizing processes. Passionate about solving complex challenges and collaborating in multidisciplinary teams, I am always eager to grow and learn.  
+
+<br>
+
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
@@ -19,6 +24,8 @@ I'm a Fullstack Developer with over 3 years of experience creating web applicati
 <img src="https://github.com/My0th/My0th/raw/main/assets/" align="center" style="width: 100%" />
 </div>  
 </td></tr></table>  
+<br>
+
 ## Languages and Tools  
 
 ### Frontend Development
